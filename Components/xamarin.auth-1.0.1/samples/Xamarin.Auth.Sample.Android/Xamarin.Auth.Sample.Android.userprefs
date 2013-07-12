@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\XamarinAndroidAuth\LoginActivity.cs">
+    <Files>
+      <File FileName="..\..\..\..\XamarinAndroidAuth\MainActivity.cs" Line="11" Column="41" />
+      <File FileName="..\..\..\..\XamarinAndroidAuth\LoginActivity.cs" Line="57" Column="37" />
+      <File FileName="MainActivity.cs" Line="53" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Xamarin.Auth Sample (Android)" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.Auth_220Sample_220_228Android_229 AndroidDeviceId-Debug="141e5471" />
+</Properties>
